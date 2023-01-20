@@ -1,0 +1,24 @@
+{
+  "kimetsu_no_yaiba": [
+    {
+      "id": 2,
+      "name": "Inosuke",
+      "elemento": "Bestia"
+    },
+    {
+      "id": 3,
+      "name": "Zenitsu",
+      "elemento": "Rayo"
+    },
+    {
+      "id": 4,
+      "name": "Uzui",
+      "elemento": "Rayo"
+    },
+    {
+      "id": 5,
+      "name": "Rengoku",
+      "elemento": "Fuego"
+    }
+  ]
+}
